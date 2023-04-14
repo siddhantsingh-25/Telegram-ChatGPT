@@ -12,5 +12,5 @@ https://colab.research.google.com/drive/1NGCYl01dJ5x4veV9j3DC8NYO3rrQsdDu?usp=sh
 
 
 
-image.png
-image.png
+<img width="661" alt="image" src="https://user-images.githubusercontent.com/31652177/231970557-e47626fc-398f-4d11-acbc-a8bb466790a1.png">
+<img width="667" alt="image" src="https://user-images.githubusercontent.com/31652177/231970585-a8a5a8c4-5e22-430f-93a2-38d13e210911.png">
